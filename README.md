@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Krishna Koushik
 
-<!--
-**Crazon55/Crazon55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Passionate game developer crafting interactive experiences  
+🌐 Web developer exploring full-stack possibilities  
+📊 Data enthusiast diving into analysis & web scraping  
+🎨 Digital artist creating game assets and characters
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+### Languages
+- Python
+- Java
+- C/C#
+- JavaScript
+- HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Development Tools
+- Visual Studio Code
+- Jupyter Notebook
+- Unity
+- Unreal Engine
+- Git & GitHub
+
+### Creative Tools
+- Blender
+- Aseprite
+- Photoshop
+
+## 🎯 Current Focus
+- Developing games for Steam & itch.io
+- Building web scraping projects
+- Advancing data analysis skills
+- Creating web applications
+
+## 🎮 Game Development
+- Creating interactive experiences in Unity/Unreal
+- Designing 2D pixel art characters
+- Developing game mechanics and systems
+- Building engaging storylines
+
+## 📫 Let's Connect!
+- Open to game dev collaborations
+- Excited to work on data projects
+- Always ready to learn and create
+
+## 📫 How to reach me
+- GitHub: [https://github.com/Crazon55]
+- LinkedIn: [https://www.linkedin.com/in/krishna-koushik-9a42b51b8/]
+- Email: [krishnakoushik93@gmail.com]
+
